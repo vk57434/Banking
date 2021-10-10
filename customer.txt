@@ -1,0 +1,3 @@
+1,Arun,7654782969,arun.kumar@highradius.com,M,Subhas,9060000001,12000
+2,Vivek,9060915717,vk.54@gmail.com,M,Dehri,9060000002,7900
+3,arun_kumar,8809298867,arunsumit878@gmail.com,male,shubhas nagar,9060000003,12000
